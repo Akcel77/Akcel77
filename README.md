@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Welcome to my GitHub</title>
+ 
 </head>
 <body>
 
@@ -15,7 +15,7 @@
 </strong>
     <h2 style="text-align: center;">Develop with passion ...<h2> 
     <div class="container">
-        <div class="box">
+        <!-- <div class="box">
             <h3>Here my Portfolio</h3>
             <a href="https://diagneaxel.com">https://diagneaxel.com</a>
             <img src="assets/mockup.png" alt="">
@@ -24,8 +24,8 @@
             <h3>Here my last project</h3>
             <a href="https://diagneaxel.com">https://diagneaxel.com</a>
             <img src="assets/mockup.png" alt="">
-        </div>    
-</div>
+        </div>     -->
+    </div>
     
 </body>
 </html>
