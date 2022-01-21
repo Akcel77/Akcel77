@@ -11,7 +11,7 @@
     ### Hi there 👋
 
 <h1 style="text-align: center;">Welcome on my gitub</h1>
-<strong>GitHubActually on High School (Bac +2 Developpeur web) looking for an internal ship (Bac +4 Concepteur devellopeur d'application) at ENI Nantes 
+<strong>Bac +2 developpeur web et web mobile
 </strong>
     <h2 style="text-align: center;">Develop with passion ...<h2> 
     <div class="container">
