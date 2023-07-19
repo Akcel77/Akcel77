@@ -1,19 +1,23 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
- 
-</head>
-<body>
+# Bonjour, je suis Axel👋
 
-    ### Hi there 👋
+Je suis un développeur passionné avec une expérience en PHP/Symfony, Python, Js/React. Je suis toujours avide d'apprendre et de travailler sur de nouveaux projets et technologies. Voici quelques projets sur lesquels j'ai travaillé récemment :
 
-<h1 style="text-align: center;">Welcome on my gitub</h1>
+## Projets
 
-    
-</body>
-</html>
+- [Travel With Your Bike](https://github.com/Akcel77/TYWB) : Projet sous Php/Symfony, Reservation de transport de moto entre Calais et plusieurs villes du sud.
+
+- [EComm](https://github.com/Akcel77/eCommerce) : Site de ECommerce sous PHP/Symfony. Mise a jour BDD, Payement et suivi.
 
 
+
+## Compétences
+
+- Langages de programmation : PHP, Python, JS, Java
+- Outils / Frameworks : Git, Symfony, React, Django, node.js, MySql, IntelliJ, VisualStudioCode
+- Methodes agiles, Anglais/Francais
+
+## Contactez-moi
+
+Vous pouvez me joindre par [email](mailto:contact@looha.io)!
+
+Merci d'avoir visité ma page GitHub!
