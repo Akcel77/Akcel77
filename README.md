@@ -84,9 +84,8 @@ Mon travail repose sur une logique de conception claire :
 
 ## Contact
 
-- Email : axel.diagne.dev@gmail.com  
 - Site personnel : [https://looha.fr](https://looha.fr)  
-- LinkedIn : *(à compléter si souhaité)*
+
 
 ---
 
