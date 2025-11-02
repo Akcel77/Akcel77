@@ -26,7 +26,7 @@ Mon approche repose sur la rigueur technique, la curiosité et la recherche d’
 **Application mobile de productivité gamifiée.**  
 Système de progression avec XP, quêtes et badges.  
 Stack : React Native · Expo · SQLite · Zustand  
-Lien : [https://foqus-dashboard.vercel.app/analytics](https://foqus-dashboard.vercel.app/analytics)
+Web app en Lien : [https://foqus-dashboard.vercel.app/analytics](https://foqus-dashboard.vercel.app/analytics)
 
 ---
 
