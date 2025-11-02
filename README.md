@@ -16,7 +16,7 @@ Mon approche repose sur la rigueur technique, la curiosité et la recherche d’
 | Outils / Environnements| Git, VS Code, IntelliJ, n8n, Vercel, Docker              |
 | Frameworks UI          | TailwindCSS, Material UI                                 |
 | Méthodes               | Architecture modulaire, CI/CD, méthodes agiles           |
-| Langues                | Français (natif), Anglais (professionnel)                |
+| Langues                | Français (natif), Anglais (courant)                      |
 
 ---
 
@@ -36,13 +36,6 @@ Stack : PHP · Symfony · MySQL
 
 ---
 
-### E-Comm  
-**Site e-commerce complet.**  
-Gestion des paiements, suivi de commandes et mise à jour de la base de données.  
-Stack : PHP · Symfony · MySQL · Stripe API
-
----
-
 ### Looha  
 **Site personnel et vitrine professionnelle.**  
 Présentation de projets, expériences et prestations.  
@@ -59,15 +52,13 @@ Stack : Django · React · Material UI · API REST · PostgreSQL
 ---
 
 ### EspaceAvenir  
-**Site web vitrine.**  
-Stack : Django · React · Material UI · API REST · PostgreSQL  
+**Site web vitrine.**   
 Lien : [https://espaceavenir.ch](https://espaceavenir.ch)
 
 ---
 
 ### Isabelle Hugo  
 **Site d’artiste.**  
-Stack : Django · React · Material UI · API REST · PostgreSQL  
 Lien : [https://isabelle-hugo-yrdq5n43xju0njkz.builder-preview.com](https://isabelle-hugo-yrdq5n43xju0njkz.builder-preview.com)
 
 ---
